@@ -1,0 +1,20 @@
+.about{
+    display: flex;
+    justify-content: space-between;
+  }
+  .basket-images img{
+   margin-left: 5%;
+   width: 90%;
+   /* margin-bottom: 5%; */
+  }
+  h1{
+    text-align: center;
+    color: darkgreen;
+   /* padding-bottom: 10%; */
+  }
+  .paragraph p{
+   padding-left: 5%;
+   margin-top: 15%;
+   /* font-size: 15px; */
+   margin-left: 30px;
+  }
